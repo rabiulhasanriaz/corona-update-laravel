@@ -11,6 +11,9 @@
         <a href="{{ route('world-wide') }}" class="nav-link">WorldWide</a>
       </li>
       <li class="nav-item d-sm-inline-block">
+        <a href="{{ route('bangladesh') }}" class="nav-link">Bangladesh</a>
+      </li>
+      <li class="nav-item d-sm-inline-block">
         <a href="{{ route('prevention') }}" class="nav-link">Prevention</a>
       </li>
     </ul>
